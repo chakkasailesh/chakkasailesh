@@ -19,7 +19,7 @@ I'm a highly motivated and detail-oriented Full Stack Web Developer with 2.5 yea
 
 ## Previous Roles
 
-### Software Engineer Intern | Temenos | [6 months]
+### Software Engineer Intern | Temenos | 6 months
 
 - Automated web UI testing using Selenium WebDriver and Java, achieving a 40% reduction in testing time and enhancing overall testing efficiency.
 - Conducted thorough manual testing, executing test cases and scenarios to identify and report software defects.
