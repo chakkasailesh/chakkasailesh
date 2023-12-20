@@ -39,10 +39,14 @@ I'm a highly motivated and detail-oriented Full Stack Web Developer with 2.5 yea
 
 - [LinkedIn](https://www.linkedin.com/in/sailesh-chakka-68a4a9185/)
 
+## 🌐 Portfolio
+
+Explore more about my work on my [Portfolio Website](https://verdant-chaja-7bb2e3.netlify.app/)
+
 ## 🏏 Hobbies
 
 I'm not just a coder; I'm also an avid cricket enthusiast. When I'm not coding, you can find me on the cricket field enjoying the game.
 
 ## 📬 Get in Touch
 
-I'm always open to new opportunities and collaborations. Feel free to reach out if you have any questions, suggestions, or just want to connect!
+I'm always open to new opportunities and collaborations. Feel free to reach out if you have any questions, or suggestions, or just want to connect!
