@@ -39,7 +39,7 @@ I'm a highly motivated and detail-oriented Full Stack Web Developer with 2.5 yea
 
 - [LinkedIn](https://www.linkedin.com/in/sailesh-chakka-68a4a9185/)
 
-## 🌐 Portfolio
+## 💻 Portfolio
 
 Explore more about my work on my [Portfolio Website](https://verdant-chaja-7bb2e3.netlify.app/)
 
