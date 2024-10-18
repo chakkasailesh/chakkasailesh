@@ -4,35 +4,36 @@ Passionate Full Stack Web Developer | DevOps Enthusiast | Cricket Lover
 
 ## 🚀 About Me
 
-I'm a highly motivated and detail-oriented Full Stack Web Developer with 2.5 years of hands-on experience in designing and implementing scalable web applications. I specialize in JavaScript, Java, ReactJS, NodeJS, and Spring Boot. I'm dedicated to delivering high-quality software solutions and continuously expanding my skill set.
+I'm a highly motivated and detail-oriented Full Stack Web Developer with 3.5 years of hands-on experience in designing and implementing scalable web applications. I specialize in JavaScript, Java, ReactJS, NodeJS, and Spring Boot. I'm dedicated to delivering high-quality software solutions and continuously expanding my skill set.
 
 ## 💼 Professional Experience
 
-### Full Stack Developer | Infosys | Hyderabad | Aug 2021 - Present
+### Full Stack Developer | XenioCode Technologies | Hyderabad | Apr 2024 - Present
 
-- Implemented robust and scalable back-end solutions using NodeJS and Spring Boot.
-- Developed responsive and intuitive user interfaces with ReactJS.
-- Played a pivotal role in migrating a critical Java application to React and NodeJS, contributing to improved performance and delivering an enhanced user experience.
-- Engaged in thorough discussions with cross-functional teams and business stakeholders to ensure a clear understanding of project objectives and requirements.
-- Actively engaged in Agile ceremonies, including sprint planning, daily stand-ups, and retrospective meetings, fostering a collaborative environment and contributing to project success.
-- Demonstrated expertise in all phases of the Software Development Life Cycle (SDLC) and proficiency in Agile methodology, contributing to the streamlined and efficient execution of projects.
+- Led the development of key components across the EOC platform, including frontend, backend, and orchestrator, ensuring a seamless user experience for managing, configuring, and monitoring environments.
+- Designed and implemented user-friendly interfaces using modern web frameworks, ensuring a focus on usability and responsiveness.
+- Assisted the QA team in automating test cases for various components, improving the reliability and efficiency of testing processes.
+- Worked closely with other teams to integrate external services, enhancing the platform's capabilities and extending functionality.
 
-## Previous Roles
+### Full Stack Developer | Infosys | Hyderabad | Aug 2021 - Apr 2024
 
-### Software Engineer Intern | Temenos | 6 months
-
-- Automated web UI testing using Selenium WebDriver and Java, achieving a 40% reduction in testing time and enhancing overall testing efficiency.
-- Conducted thorough manual testing, executing test cases and scenarios to identify and report software defects.
+- Implemented scalable back-end solutions using Node.js and Spring Boot, enhancing system reliability and performance.
+- Developed responsive user interfaces with React.js, delivering an intuitive and engaging user experience.
+- Migrated a critical Java application to React and Node.js, significantly improving performance and functionality.
+- Achieved over 90% code coverage through rigorous testing using tools such as Jest, Supertest, and React Testing Library.
+- Collaborated with cross-functional teams and business stakeholders, ensuring alignment on project objectives and requirements.
+- Participated actively in Agile ceremonies, including sprint planning, daily stand-ups, and retrospectives, fostering a collaborative and efficient project environment.
+- Demonstrated expertise in all phases of the SDLC, applying Agile methodologies for streamlined execution.
 
 
 ## 🌐 Tech Stack
 
 - **Languages:** JavaScript (ES6+), Java, HTML, CSS, SQL
 - **Frontend:** ReactJS, SCSS, Tailwind CSS
-- **Backend:** NodeJS (Express.js), Spring Boot
-- **Databases:** MySQL, IBM DB2, MongoDB
+- **Backend:** NodeJS, Express.js, NestJS, Spring Boot
+- **Databases:** PostgreSQL, IBM DB2, MongoDB
 - **Cloud Services:** AWS
-- **DevOps:** Docker, Kubernetes, GitLab CI/CD
+- **DevOps:** Docker, Kubernetes, GitLab CI/CD, ArgoCD
 - **Tools:** Postman, Webpack, Babel, Maven, npm, SonarQube
 
 ## 🤝 Let's Connect!
